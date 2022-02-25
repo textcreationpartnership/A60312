@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new catichisme for ever: or, The mite of a minister Cast into a catechisme, for the preparation of his people, before they receive the supper of the Lord. By Joshuah Siston, minister at Grauby, in the vale of Bever.</title>
+            <author>Siston, Joshua, b. 1603 or 4.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60312</idno>
+            <idno type="STC">Wing S3909A</idno>
+            <idno type="STC">ESTC R221499</idno>
+            <idno type="EEBO-CITATION">99832797</idno>
+            <idno type="PROQUEST">99832797</idno>
+            <idno type="VID">37271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new catichisme for ever: or, The mite of a minister Cast into a catechisme, for the preparation of his people, before they receive the supper of the Lord. By Joshuah Siston, minister at Grauby, in the vale of Bever.</title>
+                  <author>Siston, Joshua, b. 1603 or 4.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Coles, at the signe of the Half-bowle in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signature: A.</note>
+                  <note>Title page has date written in MS.: feb: 19 1650. The printed date, 1651, has been crossed out and replaced with "1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:37271:1" rendition="simple:additions"/>
+            <p>A new CATICHISME for ever: <hi>OR,</hi> The Mite of a Miniſter.</p>
+            <p>Caſt into a Catechiſme, for the pre<g ref="char:EOLhyphen"/>paration of his people, before they Receive the Supper of the Lord.</p>
+            <q>
+               <p>Parents provoke not your Children to wrath, but bring them up in nurture and admoni<g ref="char:EOLhyphen"/>tion of the Lord,</p>
+               <bibl>
+                  <hi>Eph. 6.4.</hi>
+               </bibl>
+            </q>
+            <p>By Joſhuah Siſton, Miniſter at Grauby, in the Vale of Bever.</p>
+            <p>London Printed for <hi>Francis Coles,</hi> at the ſigne of the Half-bowle in the Old-Baily. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:37271:2"/>
+            <head>A New Catechiſme for ever. <hi>OR,</hi> The Mite of a Miniſter.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is God? and how muſt he be worſhip<g ref="char:EOLhyphen"/>ped?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> 
+               <note place="margin">John 4.24</note>God is a Spirit, and they that worſhip him muſt worſhip him in ſpirit, and in truth.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is the Church of God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Eph. 1.10</note> The whole company of Gods Elect, in all places and ages knit by true Faith unto Chriſt their head.</p>
+            <pb facs="tcp:37271:2"/>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What doe you believe con<g ref="char:EOLhyphen"/>cerning God and his Church?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I believe in God the Father Almighty, maker of Heaven and Earth, and in Jeſus Christ his onely Sonne our Lord, which was conceived by the Holy Ghoſt, borne of the Virgin Mary, &amp;c.</p>
+            <p>I believe in the Holy-Ghoſt, the Holy Catholique Church, &amp;c.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is Faith?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Ro. 1.17.</note> An apprehenſion and applica<g ref="char:EOLhyphen"/>cation of Chriſt and all his Merits, as they are promiſed and offered in the word and Sacraments.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is a Sacrament?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Rom. 4.11.</note> A Seale of the Covenant of Grace.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is the Covenant of Grace?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Joh. 3.16.</note> An agreement concerning men to be freely ſaved through faith in Chriſt Jeſus.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is Baptiſme?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Mat. 18.19.</note> A Sacrament of our Ingrafting into Chriſt, and Entrance into the Church
+<pb facs="tcp:37271:3"/>of God.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is the Lords Supper</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> It is a Sacrament of the eter<g ref="char:EOLhyphen"/>nall Covenant,<note place="margin">Ioh. 6.54.</note> whereby the ſoules of them that are ingrafted into Christ, are ſpiri<g ref="char:EOLhyphen"/>tually nouriſhed unto eternall life.</p>
+            <p>
+               <hi>Who is the Author of this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+               <note place="margin">Mat. 26.26.</note>
+            </p>
+            <p>
+               <label>Anſw.</label> The Lord Jeſus Chriſt.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> When did he inſtitute it?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">1 Cor. 11.23.</note> In the ſame night he was be<g ref="char:EOLhyphen"/>trayed.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Which is the ſigne that may be ſeene?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Mat. 26.26.27.</note> Bread and Wine.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Which is the Grace that can<g ref="char:EOLhyphen"/>not be ſeene?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">1 Cor. 10, 16.</note> The Body and Blood of Chriſt.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Who are to receive the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Such as know their miſery by ſin,<note place="margin">Mat. 11.28.</note> and the remedy thereof in Chriſt.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What muſt a man doe before he can become a worthy receiver?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">1 Cor. 11, 28.</note> He muſt examine himſelfe.</p>
+            <pb facs="tcp:37271:3"/>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Why muſt a man examine himſelfe?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">1 Cor. 11.27.29.</note> Becauſe an unworthy Receiver is guilty not onely of Chriſts Body and Blood; but he eateth and drinketh Dam<g ref="char:EOLhyphen"/>nation to himſelfe.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Wherein muſt your exami<g ref="char:EOLhyphen"/>nation conſiſt?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">2 Cor. 13.5.</note> In the Graces both of Faith and Knowledge.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What other duties are re<g ref="char:EOLhyphen"/>quired of you?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Repentance and Reconciliation.<note place="margin">Mat. 5.24.</note>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is Repentance?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Ionah 3.8.</note> A true turning unto God from every evill way.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What muſt you doe after you have received?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Prov. 4.18.</note> I muſt endeavour to find in<g ref="char:EOLhyphen"/>creaſe of Faith, and all other ſaving Graces; abounding more and more in well-doing.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> How many Commandements are there?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Ten.</p>
+            <pb facs="tcp:37271:4"/>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Which is the firſt Comman<g ref="char:EOLhyphen"/>dement?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Exod. 20.3.</note> Thou ſhalt have none other Gods but me.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> Which is the ſecond Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Exod. 20.4.3.6.</note> Thou ſhalt not make to thy ſelfe any graven Image, nor the likeneſſe of a<g ref="char:EOLhyphen"/>ny thing that is in Heaven above, or in the Earth beneath, or in the waters under the Earth, thou ſhalt not bow down to them, nor worſhip them, for I the Lord thy God am a jealous God, viſiting the ſias of the Father upon the Children unto the third and fourth generation, of them that hate me; and ſhew mercy unto thou<g ref="char:EOLhyphen"/>ſands, to them that love me and keepe my Commandements.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The third Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Exod. 20.7.</note> Thou ſhalt not take the Name of the Lord thy God in vaine, for the Lord will not hold him guiltleſſe that ta<g ref="char:EOLhyphen"/>keth his Name in vaine.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The fourth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Exod. 20. v. 9.10.11.</note> Remember thou keep'ſt holy the
+<pb facs="tcp:37271:4"/>Sabbath Day, ſixe dayes ſhalt thou labour and doe all that thou hast to doe; but the ſeventh day is the Sabbath of the Lord thy God: in it thou ſhalt doe no manner of worke, thou nor thy Son, nor thy Daughter, thy Man-ſervant, nor thy Maid-ſervant, thy Cattel, nor thy ſtran<g ref="char:EOLhyphen"/>ger that is within thy gates; for in ſixe dayes, the Lord made Heaven and Earth, and all that in them is, and reſteth the ſeventh day; therefore the Lord bleſſed the ſeventh day, and hallowed it.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The fifth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">Exod. 20, 11.</note> Honour thy Father and thy Mother, that thy dayes may be long in the land which the Lord thy God giveth thee.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The ſixth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not kill.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The ſeventh Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not commit Adultery</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The eighth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not ſteale.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The ninth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not beare falſe wit<g ref="char:EOLhyphen"/>neſſe againſt thy Neighbour.</p>
+            <pb facs="tcp:37271:5" rendition="simple:additions"/>
+            <p>
+               <label>Queſt.</label> 
+               <hi> The tenth Commandement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not covet thy neigh<g ref="char:EOLhyphen"/>bours houſe, thou ſhalt not covet thy neigh<g ref="char:EOLhyphen"/>bours Wife, nor his Man-ſervant, nor his Maid-ſervant, nor his Oxe, nor his Aſſe nor any thing that is his.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi> What is Prayer?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <note place="margin">1 Iohn 5.14.</note> A calling upon God in the Name of Chriſt Jeſus, according to his will.</p>
+            <p>
+               <label>Queſt:</label> 
+               <hi> After what manner did our Saviour teach his Diſciples to pray?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> After this manner.</p>
+            <p>
+               <hi>Our Father which art in Heaven,</hi>
+               <note place="margin">Mat. 6.9.10.11.12.</note> 
+               <hi>hallowed be thy Name, thy Kingdom come, thy will be done in Earth, as it is in Heaven, give us this day our dai<g ref="char:EOLhyphen"/>ly Bread, and forgive us our treſpaſſes as wee forgive them that treſpaſſe a<g ref="char:EOLhyphen"/>gainſt us, and lead us not into tempta<g ref="char:EOLhyphen"/>tion, but deliver us from evill, for thine is the Kingdome, the power, and thy glory, for ever and ever, Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Jmprimatur,</hi>
+            </p>
+            <closer>
+               <signed>John Downame.</signed>
+            </closer>
+            <pb facs="tcp:37271:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
